@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="color_entries">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="color_values">
+        <item>#dd6666</item>
+        <item>#66dd66</item>
+        <item>#6666dd</item>
+    </string-array>
+</resources>
